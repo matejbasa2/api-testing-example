@@ -45,7 +45,7 @@
     I would clarify my test automation approach and setup an automated testing environment
     using the appropriate tools.
  
-    Easing my work would be Postman. I would also make test cases of usual user
+    Easing my work would be Postman, axios, chai, mocha and similar. I would also make test cases of usual user
     interactions as well as edge cases and each individual component (standardized test idioms.
  
     Setup a continuous integration tool that would trigger the automated tests. Also pay close attention
@@ -70,7 +70,7 @@
 ### c) Create a simple script solution to verify that TheCatAPI can fulfill user story requirements
 
     1. Install the necessary dependencies using npm install,
-    2. To run the tests use `npm test`
+    2. Run the tests using: `npm test`
 
 
 
